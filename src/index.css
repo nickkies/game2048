@@ -1463,3 +1463,12 @@ hr {
   flex: 0 0 auto;
   margin-left: 20px;
 }
+
+.controller {
+  margin: 0 auto;
+  width: 365px;
+}
+
+.controller > span {
+  font-size: 4em;
+}

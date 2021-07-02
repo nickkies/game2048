@@ -4,9 +4,9 @@ export default function AboveGame() {
   return (
     <div className="above-game">
       <p className="game-intro">
-        Press 👆 || 👉 || 👈 || 👇 keyboard button
+        Press 👆 || 👉 || 👈 || 👇 button
       </p>
-      <a href="/" className="restart-button">
+      <a href="/game2048" className="restart-button">
         New Game
       </a>
     </div>
