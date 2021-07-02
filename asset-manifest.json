@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nickkies/game2048/static/css/main.67b9a54d.chunk.css",
+    "main.js": "/nickkies/game2048/static/js/main.fcadc11f.chunk.js",
+    "main.js.map": "/nickkies/game2048/static/js/main.fcadc11f.chunk.js.map",
+    "runtime-main.js": "/nickkies/game2048/static/js/runtime-main.7947f192.js",
+    "runtime-main.js.map": "/nickkies/game2048/static/js/runtime-main.7947f192.js.map",
+    "static/js/2.f1e358aa.chunk.js": "/nickkies/game2048/static/js/2.f1e358aa.chunk.js",
+    "static/js/2.f1e358aa.chunk.js.map": "/nickkies/game2048/static/js/2.f1e358aa.chunk.js.map",
+    "index.html": "/nickkies/game2048/index.html",
+    "static/css/main.67b9a54d.chunk.css.map": "/nickkies/game2048/static/css/main.67b9a54d.chunk.css.map",
+    "static/js/2.f1e358aa.chunk.js.LICENSE.txt": "/nickkies/game2048/static/js/2.f1e358aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7947f192.js",
+    "static/js/2.f1e358aa.chunk.js",
+    "static/css/main.67b9a54d.chunk.css",
+    "static/js/main.fcadc11f.chunk.js"
+  ]
+}
